@@ -6,8 +6,6 @@ let rolesValidos = {
     message: '{VALUE} no es un rol valido'
 };
 
-
-
 let Schema = mongoose.Schema;
 
 let usuarioSchema = new Schema({
